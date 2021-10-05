@@ -17,4 +17,4 @@ http://localhost:3000/api/movie
 }
 ```
 
-Mostly this is a nice starter project for me to refer back to or clone to get started on a new project 🙂
+The front end is hosted on http://localhost:8000 and is simply the starter react app and 2 pages for invoking the backend api.  Mostly this is a nice starter project for me to refer back to or clone to get started on a new project 🙂
